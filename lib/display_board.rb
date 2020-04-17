@@ -9,4 +9,4 @@ puts "board#{6}|board#{7}|board#{8}"
 puts "-----------"
 end
 
-display_board
+display_board(board)
